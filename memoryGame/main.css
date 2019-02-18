@@ -39,7 +39,7 @@ html,body {
 	box-sizing: border-box;
 	border: 1px solid #eee;
 	position: absolute;
-	background: orange;
+	background: red;
 	backface-visibility: hidden;
 	transition: transform 0.7s linear;
 
